@@ -1,1 +1,2 @@
-# generalV14-bot
+# `PoweredBy EveryUptime
+# Discord.JS V14 Advcanced Boat
